@@ -1,5 +1,5 @@
 function test2() {
   let sdad;
-  return "tesxcsdsdknsdt2";
+  let csdsdknsdt2 = "dsd";
   let asdsad;
 }
